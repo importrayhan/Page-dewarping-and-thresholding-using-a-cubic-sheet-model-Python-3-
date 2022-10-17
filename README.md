@@ -15,6 +15,6 @@ Usage:
 
 Result:
 <h3 align="center">
-    <a><img src="" width="400"></a>
-    <a><img src="" width="400"></a>
+    <a><img src="linguistics_thesis_b.jpg" width="250"></a>
+    <a><img src="linguistics_thesis_b_thresh.png" width="600"></a>
 </h3>
