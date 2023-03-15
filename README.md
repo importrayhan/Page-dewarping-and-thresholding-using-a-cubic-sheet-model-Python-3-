@@ -13,7 +13,8 @@ Usage:
 
     page_dewarp.py IMAGE1 [IMAGE2 ...]
 
-Result:
+### Result: 
+if your input was IMAGE1, the output file will be saved as IMAGE1_thresh.png in the python script's directory.
 <h3 align="center">
     <a><img src="linguistics_thesis_b.jpg" width="250"></a>
     <a><img src="linguistics_thesis_b_thresh.png" width="600"></a>
